@@ -68,8 +68,8 @@
 </td></tr></table>     
 
 <h3>➤ GitHub Stats :</h3>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="rajveersinghcse" />
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="rajveersinghcse" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="rajveersinghcse" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="rajveersinghcse" />
  
 
 [Projects]: https://github.com/rajveersinghcse?tab=repositories
