@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Coding is Fun**
 
+
+
 <h3 align="left">➤ Connect with me :</h3>
 <div align="left"> 
 <p align="left"><a href="https://twitter.com/itsdevilshot" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/twitter.png" alt="rajveersinghcse" height="28" width="30" /></a>
@@ -22,6 +24,8 @@
 <a href="https://kaggle.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/kaggle.png" alt="rajveersinghcse" height="28" width="28" /></a>
 <a href="https://www.hackerrank.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hackerrank.png" alt="rajveersinghcse" height="28" width="28" /></a> </p></div>
 
+<h3 align="left">➤ Support :</h3>
+<a href="https://www.buymeacoffee.com/rajveersinghcse"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="175" alt="rajveersinghcse" /></a>
 
 <h3>➤ My Skill Sets :</h3>
 <table><tr><td valign="top" width="33%">
@@ -64,13 +68,9 @@
 </td></tr></table>     
 
 <h3>➤ GitHub Stats :</h3>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="rajveersinghcse" />
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="rajveersinghcse" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="rajveersinghcse" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="rajveersinghcse" />
  
-<p>‎ ‎ ‎  </p>
-<h3>➤ GitHub Contributions Graph :</h3>
-<img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.gif" alt="rajveersinghcse" />
-<p><a href="https://www.buymeacoffee.com/rajveersinghcse"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="rajveersinghcse" /></a></p><br>
 
 [Projects]: https://github.com/rajveersinghcse?tab=repositories
 [Linkedin]: https://www.linkedin.com/in/rajveersinghcse/
