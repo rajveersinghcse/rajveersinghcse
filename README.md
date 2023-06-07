@@ -1,4 +1,4 @@
-![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub_Banner.png)
+<!-- ![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub_Banner.png) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinghcse" /></p>
 <o><img align="right"  height="220" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/coder.gif" alt="coder"></p>
