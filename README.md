@@ -1,65 +1,118 @@
 <!-- ![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub_Banner.png) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinghcse" /></p>
-<o><img align="right"  height="220" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/coder.gif" alt="coder"></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajveersinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersinghcse" />
+</p>
 
-- 🌱 I’m currently learning **Data Scientist & Machine Learning**
+<img align="right" height="220" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/coder.gif" alt="coder">
 
-- 👨‍💻 All of my projects are available at **[Projects]**
+### 👋 Hello! I'm Rajveer Singh
 
-- 💬 Ask me about **Data Science and related things**
+🌱 I’m currently diving deep into **Data Science & Machine Learning**
 
-- 📫 You can reach me through **[Linkedin]**
+👨‍💻 Explore my projects on **[GitHub]**
 
-- 📄 Know about my experiences **[Linkedin]**
+💬 Feel free to ask me about **Data Science and related topics**
 
-- ⚡ Fun fact **Coding is Fun**
+📫 Connect with me on **[LinkedIn]**
 
-<h3 align="left">➤ Connect with me :</h3>
+📄 Check out my experiences on **[LinkedIn]**
+
+⚡ Fun fact: **Coding is Fun!**
+
+---
+
+### ➤ Connect with Me:
+
 <div align="left"> 
-<a href="https://linkedin.com/in/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linkedin.png" alt="Linkedin" height="28" width="28" /></a>
-<a href="https://github.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" alt="Github" height="38" width="38" /></a>
+  <a href="https://linkedin.com/in/rajveersinghcse" target="_blank">
+    <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linkedin.png" alt="LinkedIn" height="28" width="28" />
+  </a>
+  <a href="https://github.com/rajveersinghcse" target="_blank">
+    <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" alt="GitHub" height="38" width="38" />
+  </a>
 </div>
 
-<h3>➤ My Skill Sets :</h3>
-<table><tr>
-<td valign="top" width="33%">
-<h3 align="center">Programming Languages</h3>  
-<div align="center">  
-<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/HTML.png" alt="html5" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/CSS.png" alt="css3" height="40" /> </a> 
-<a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Python.png" alt="python" height="40" /> </a>  
-</div></td>
+---
 
-<td valign="top" width="33%">
-<h3 align="center">Tools</h3>
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PyTorch.png" alt="pytorch" height="40" /> </a>
-<a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="scikit_learn" height="40" /> </a> 
-<a href="https://www.tensorflow.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tensorflow.png" alt="tensorflow" height="40" /> </a>
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/powerbi.png" alt="powerbi" height="40" /> </a>
-<a href="https://www.tableau.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tableau.png" alt="tableau" height="40" /> </a>
-</div></td>
+### ➤ My Skill Sets:
 
-<td valign="top" width="33%">
-<h3 align="center">Other Skill's</h3>
-<div align="center">  
-<a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="40" /> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Azure.png" alt="azure" height="40" /> </a> 
-<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Docker.png" alt="docker" height="40" width="65" /> </a> 
-<a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Git.png" alt="git" height="40" /> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Hadoop.png" alt="hadoop" height="40" /> </a>
-<a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Bootstrap.png" alt="bootstrap" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Linux.png" alt="linux" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/MySQL.png" alt="mysql" height="40" /> </a>
-</div></td>
-</tr></table>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Programming Languages</h3>  
+      <div align="center">
+        <a href="https://www.w3.org/html/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/HTML.png" alt="HTML5" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/CSS.png" alt="CSS3" height="40" />
+        </a>
+        <a href="https://www.python.org" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Python.png" alt="Python" height="40" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools</h3>
+      <div align="center">
+        <a href="https://pytorch.org/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PyTorch.png" alt="PyTorch" height="40" />
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="Scikit Learn" height="40" />
+        </a>
+        <a href="https://www.tensorflow.org" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tensorflow.png" alt="TensorFlow" height="40" />
+        </a>
+        <a href="https://powerbi.microsoft.com/en-au/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/powerbi.png" alt="Power BI" height="40" />
+        </a>
+        <a href="https://www.tableau.com/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tableau.png" alt="Tableau" height="40" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Other Skills</h3>
+      <div align="center">
+        <a href="https://aws.amazon.com" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="AWS" height="40" />
+        </a>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Azure.png" alt="Azure" height="40" />
+        </a>
+        <a href="https://www.docker.com/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Docker.png" alt="Docker" height="40" width="65" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Git.png" alt="Git" height="40" />
+        </a>
+        <a href="https://hadoop.apache.org/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Hadoop.png" alt="Hadoop" height="40" />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Bootstrap.png" alt="Bootstrap" height="40" />
+        </a>
+        <a href="https://www.linux.org/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Linux.png" alt="Linux" height="40" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/MySQL.png" alt="MySQL" height="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h3>➤ GitHub Stats :</h3>
+---
+
+### ➤ GitHub Stats:
+
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </div>
 
-[projects]: https://github.com/rajveersinghcse?tab=repositories
-[linkedin]: https://www.linkedin.com/in/rajveersinghcse/
+[GitHub]: https://github.com/rajveersinghcse?tab=repositories
+[LinkedIn]: https://www.linkedin.com/in/rajveersinghcse/
