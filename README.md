@@ -21,7 +21,7 @@
 ⚡ Fun fact: **Coding is Fun!**
 
 
-### ➤ Connect with Me:
+### 🔗 Connect with Me:
 
 <div align="left"> 
   <a href="https://linkedin.com/in/rajveersinghcse" target="_blank">
@@ -34,7 +34,7 @@
 
 
 
-### ➤ My Skill Sets:
+### 🛠️ My Skill Sets:
 
 <table>
   <tr>
@@ -105,7 +105,7 @@
 </table>
 
 
-### ➤ GitHub Stats:
+### 📈 GitHub Stats:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="Top Languages" />
