@@ -20,7 +20,6 @@
 
 ⚡ Fun fact: **Coding is Fun!**
 
----
 
 ### ➤ Connect with Me:
 
@@ -33,7 +32,7 @@
   </a>
 </div>
 
----
+
 
 ### ➤ My Skill Sets:
 
@@ -105,7 +104,6 @@
   </tr>
 </table>
 
----
 
 ### ➤ GitHub Stats:
 
