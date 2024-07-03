@@ -24,12 +24,8 @@
 ### 🔗 Connect with Me:
 
 <div align="left"> 
-  <a href="https://linkedin.com/in/rajveersinghcse" target="_blank">
-    <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linkedin.png" alt="LinkedIn" height="28" width="28" />
-  </a>
-  <a href="https://github.com/rajveersinghcse" target="_blank">
-    <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" alt="GitHub" height="38" width="38" />
-  </a>
+<a href="https://linkedin.com/in/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linkedin.png" alt="Linkedin" height="28" width="28" /></a>
+<a href="https://github.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" alt="Github" height="38" width="38" /></a>
 </div>
 
 
